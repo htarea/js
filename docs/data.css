@@ -1,7 +1,10 @@
 .box{
     box-sizing: border-box;
-    width: 35vw;
-    margin: 35vh auto 0;
+    width: 90vw;
+    max-width: 900px;
+    height: 45vw;
+    max-height: 450px;
+    margin: 15vh auto 0;
     border: 1px solid rgb(232, 232, 232);
     
     display: flex;
